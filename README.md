@@ -9,8 +9,9 @@ Olá, Intellya! Abaixo segue os passos para rodar a API e o site:
 Para configurar e executar a API, siga os passos abaixo:
 
 1. Clone este repositório: `git clone https://github.com/dev-felipecrs/intellya-vue-frontend-challenge.git`
-2. Instale as dependências: `npm i`
-3. Inicie a API: `npm run start`
+2. Entre no diretório: `cd intellya-vue-frontend-challenge`
+3. Instale as dependências: `npm i`
+4. Inicie a API: `npm run start`
 
 A API irá rodar localmente e poderá ser acessada através do `http://localhost:3000`.
 
