@@ -23,7 +23,8 @@ Para configurar e executar o site, siga os passos abaixo:
 2. Instale as dependências: `npm i`
 3. Execute o vite: `npm run dev`
 
-Neste caso, vou deixar público o .env.local. Assim, não precisa criar nenhuma variável de ambiente para o bom funcionamento da aplicação.
+O site vai ser executado localmente e poderá ser acessada através do link que aparecerá em seu terminal.
+Obeservação: Neste caso, vou deixar público o .env.local. Assim, não precisa criar nenhuma variável de ambiente para o bom funcionamento da aplicação.
 
 ## O que adicionei de novo?
 
